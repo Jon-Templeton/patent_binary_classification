@@ -32,7 +32,6 @@ This notebook focuses on classifying patents into binary categories using NLP te
 - **Dataset**: Combination of title and abstract columns from patent dataset.
 - **Performance Metrics**: Accuracy, Precision, Recall, F1 Score.
 
----
 
 ## 2. Patent Binary Classification: Linear Regression
 
@@ -52,5 +51,3 @@ This notebook employs logistic regression to classify patents. It focuses on the
 - **Model**: Logistic Regression.
 - **Dataset**: 'cpc_first_4' and 'labels' columns from patent dataset.
 - **Performance Metrics**: Accuracy, Precision, Recall, F1 Score.
-
----
