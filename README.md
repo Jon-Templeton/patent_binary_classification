@@ -6,8 +6,8 @@ This project comprises two Jupyter notebooks demonstrating binary classification
 
 ### Notebooks:
 
-1. [**Patent Binary Classification: NLP**](#1-patent-binary-classification-nlp)
-2. [**Patent Binary Classification: Linear Regression**](#2-patent-binary-classification-linear-regression)
+1. **Patent Binary Classification: NLP**
+2. **Patent Binary Classification: Linear Regression**
 
 
 
